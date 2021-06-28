@@ -20,7 +20,7 @@ def getPrime():
    
    while result == False:
     	# You can modify limit to get random prime number
-    	random = randint(0, 1000);
+    	random = randint(0, 1000)
     	if isPrime(random):
     		result = random   
    
