@@ -1,2 +1,2 @@
-# python-random-prime-number
-Python get random prime number
+# Python get random prime number
+Simple script to get random prime number in Python
